@@ -1,0 +1,25 @@
+MTD competetive programming training
+
+DAY1 thursday 06-03-2025
+
+steps to create git repo
+login to git> togo new repo> give a name to repo> descreption > add a readme fine > create repository
+
+keyboard shortcuts
+1.ctrl+shift+u(uppercase)
+2.ctrl g
+3.alt+tab(to change the tab)
+IMPORTANT GIT COMMANDS
+git status
+//to konw the status of repo
+
+git clone https://github.com/neelmyna/vvce_mar25 in command of learning
+change the directories> command- cd vcce_mar25(folder name)
+//example to download
+
+git pull origin main
+//command to download the updated repo from the server to the local machine (download in the git file)
+
+mtd.nithin in youtube
+
+
