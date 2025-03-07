@@ -20,6 +20,6 @@ change the directories> command- cd vcce_mar25(folder name)
 git pull origin main
 //command to download the updated repo from the server to the local machine (download in the git file)
 
-mtd.nithin in youtube
+mtd.nithin in youtub
 
 
